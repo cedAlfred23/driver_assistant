@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "852011322824",
+    "project_id": "carloshealthapp-eabfd",
+    "storage_bucket": "carloshealthapp-eabfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852011322824:android:9af26ff9fe6dd86c7944fd",
+        "android_client_info": {
+          "package_name": "com.aitgh.university"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcKTCtT5GJOViETxRtN48Eju-6gsNoLlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852011322824:android:2caca19a71cc8cf57944fd",
+        "android_client_info": {
+          "package_name": "com.driver_assistant.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcKTCtT5GJOViETxRtN48Eju-6gsNoLlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852011322824:android:f9659d594df5fb147944fd",
+        "android_client_info": {
+          "package_name": "com.example.healthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcKTCtT5GJOViETxRtN48Eju-6gsNoLlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
